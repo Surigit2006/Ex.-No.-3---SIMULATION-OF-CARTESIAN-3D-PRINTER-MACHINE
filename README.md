@@ -60,8 +60,12 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+
+<img width="1579" height="984" alt="Screenshot 2026-03-16 113332" src="https://github.com/user-attachments/assets/0e3a2f29-d92e-4118-9917-3790f8cef955" />
+
+### Name: M.K.Suriya prakash
+### Register Number: 212224110053
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
